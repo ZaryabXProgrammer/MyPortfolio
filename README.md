@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Zaryab Haider
 
 <img src ="https://i.ibb.co/P9MJ1yp/zaryab-port.jpg" />
  
