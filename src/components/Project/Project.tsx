@@ -307,10 +307,10 @@ export function Project() {
               <h3>Microsoft Homepage Clone</h3>
               <p>
                 A meticulous clone of the Microsoft homepage, designed to
-                emulate the original site's aesthetics. This project showcases
-                attention to detail and proficiency in frontend development,
-                resulting in a visually appealing and responsive web
-                application.
+                emulate the original site's aesthetics. This
+                project showcases attention to detail and proficiency in
+                frontend development, resulting in a visually appealing and
+                responsive web application.
               </p>
             </div>
             <footer>
