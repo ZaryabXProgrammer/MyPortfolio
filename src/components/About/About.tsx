@@ -22,7 +22,7 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Zaryab, a Full-Stack Developer with a passion for
+            Hi there! I'm Zaryab, a Full-Stack Developer with awdwd passion for
             creating pixel perfect web applications. With a skill set including
             ReactJs, Nodejs, MongoDb. I have the tools to bring any website
             vision to life.
