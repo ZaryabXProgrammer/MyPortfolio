@@ -23,9 +23,8 @@ export function About() {
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
             Hi there! I'm Zaryab, a Full-Stack Developer with a passion for
-            creating pixel perfect web applications. With a skill set including
-            ReactJs, Nodejs, MongoDb. I have the tools to bring any website
-            vision to life.
+            creating pixel perfect web applications. With these tools, I can
+            bring any website vision to life.
           </p>
         </ScrollAnimation>
         <ScrollAnimation
@@ -35,8 +34,8 @@ export function About() {
         >
           <p>
             I excel in translating designs from Figma or PSD into clean and
-            readable code. Additionally, I keep an eye on application's speed
-            and efficiency using best SEO practices to deliver seamless user
+            readable code. Additionally, I focus on optimizing application speed
+            and efficiency using best SEO practices to deliver a seamless user
             experience.
           </p>
         </ScrollAnimation>

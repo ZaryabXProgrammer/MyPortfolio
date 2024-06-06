@@ -37,7 +37,7 @@ export function Project() {
                   <img src={githubIcon} alt="Visit site" />
                 </a>
                 <a
-                  href="https://poetic-paprenjak-c46b2b.netlify.app/"
+                  href="https://66620fb5b3611552903aeb03--poetic-paprenjak-c46b2b.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -50,11 +50,13 @@ export function Project() {
               <p>
                 {" "}
                 This web application streamlines the job search process by
-                integrating advanced features for job hunting, automated resume
-                parsing, and CV ranking, ensuring a seamless and user-friendly
-                experience. The application is designed with a focus on
-                functionality, efficiency, and a sleek user interface, catering
-                to both job seekers and recruiters.{" "}
+                integrating advanced features such as job hunting, automated
+                resume parsing, and CV ranking, ensuring a seamless and
+                user-friendly experience. Designed with a focus on
+                functionality, efficiency, and a sleek user interface, it caters
+                to both job seekers and recruiters. Additionally, it leverages
+                AI to identify missing skills and gaps in resumes, and generates
+                a personalized 3-week learning roadmap.{" "}
               </p>
             </div>
             <footer>
@@ -307,10 +309,10 @@ export function Project() {
               <h3>Microsoft Homepage Clone</h3>
               <p>
                 A meticulous clone of the Microsoft homepage, designed to
-                emulate the original site's aesthetics. This
-                project showcases attention to detail and proficiency in
-                frontend development, resulting in a visually appealing and
-                responsive web application.
+                emulate the original site's aesthetics. This project showcases
+                attention to detail and proficiency in frontend development,
+                resulting in a visually appealing and responsive web
+                application.
               </p>
             </div>
             <footer>
